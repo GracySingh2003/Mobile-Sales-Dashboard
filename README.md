@@ -45,5 +45,6 @@ Clean and professional data visualization design<br/>
 This project was created as part of the **SkillCourse Power BI Training Program**, guided by expert instruction and hands-on learning.<br/>
 
 **Screenshot**:<br/>
+See what Dashboard looks like : https://github.com/GracySingh2003/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 ⭐ *If you found this project useful, consider giving it a star!* <br/> 
